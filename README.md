@@ -58,3 +58,6 @@ To get started, clone the repository and install the required dependencies:
 git clone https://github.com/Pettyman123/ML.git
 cd ML
 pip install -r requirements.txt
+
+## Contribution
+please feel free to Contribute, fork the repo. thanks.
