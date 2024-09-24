@@ -60,4 +60,4 @@ cd ML
 pip install -r requirements.txt
 ```
 ## Contribution
-please feel free to Contribute, fork the repo. thanks alot.
+please feel free to Contribute, fork the repository. thanks alot.
