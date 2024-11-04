@@ -4,7 +4,7 @@
 This repository contains various Machine Learning models and implementations focused on solving a wide range of problems using techniques such as supervised, unsupervised, and reinforcement learning. The goal of this project is to provide a comprehensive collection of machine learning functions, utilities, and models that can be easily reused, adapted, or extended for different purpose.
 
 ## Features
-- **Supervised Learning Models**: 
+- **Supervised Learning Models** 
   - Linear Regression
   - Logistic Regression
   - Decision Trees
