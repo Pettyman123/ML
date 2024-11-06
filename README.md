@@ -53,7 +53,7 @@ This repository contains various Machine Learning models and implementations foc
   - Logging and Debugging
 
 ## Installation
-To get started, clone the repository and install the required dependency:
+To get started, clone the repository and install the required dependenciezs:
 ```bash
 git clone https://github.com/Pettyman123/ML.git
 cd ML
