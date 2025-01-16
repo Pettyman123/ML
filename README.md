@@ -10,7 +10,7 @@ This repository contains various Machine Learning models and implementations foc
   - Decision Trees
   - Support Vector Machines (SVM)
   - K-Nearest Neighbors (KNN)
-  - Naive Bayes
+  - Naive Baye
 
 - **Unsupervised Learning Models**: 
   - K-Means Clustering
