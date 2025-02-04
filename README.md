@@ -44,7 +44,7 @@ This repository contains various Machine Learning models and implementations foc
 - **Optimization Algorithms**:
   - Gradient Descent Variants (SGD, Adam, RMSprop)
   - Hyperparameter Tuning
-  - Cross-Validation
+  - Cross-Validations
 
 - **Utilities**:
   - Dataset Loading and Splitting
